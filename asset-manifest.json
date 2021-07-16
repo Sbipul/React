@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.js": "/React/static/js/main.0aa44fde.chunk.js",
+    "main.js.map": "/React/static/js/main.0aa44fde.chunk.js.map",
+    "runtime-main.js": "/React/static/js/runtime-main.c7a03233.js",
+    "runtime-main.js.map": "/React/static/js/runtime-main.c7a03233.js.map",
+    "static/js/2.f08b63d5.chunk.js": "/React/static/js/2.f08b63d5.chunk.js",
+    "static/js/2.f08b63d5.chunk.js.map": "/React/static/js/2.f08b63d5.chunk.js.map",
+    "index.html": "/React/index.html",
+    "static/js/2.f08b63d5.chunk.js.LICENSE.txt": "/React/static/js/2.f08b63d5.chunk.js.LICENSE.txt",
+    "static/media/1.68fe4493.jpg": "/React/static/media/1.68fe4493.jpg",
+    "static/media/2.34cf9dae.jpg": "/React/static/media/2.34cf9dae.jpg",
+    "static/media/3.6e6fc295.jpg": "/React/static/media/3.6e6fc295.jpg",
+    "static/media/a.e529feef.jpg": "/React/static/media/a.e529feef.jpg",
+    "static/media/b.28764369.jpg": "/React/static/media/b.28764369.jpg",
+    "static/media/c.0a587e47.jpg": "/React/static/media/c.0a587e47.jpg",
+    "static/media/deya.ed4b46ec.jpg": "/React/static/media/deya.ed4b46ec.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c7a03233.js",
+    "static/js/2.f08b63d5.chunk.js",
+    "static/js/main.0aa44fde.chunk.js"
+  ]
+}
